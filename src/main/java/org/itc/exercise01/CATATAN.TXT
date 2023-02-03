@@ -1,0 +1,14 @@
+1. untuk nama class di awali huruf besar dan jika 2 kata maka di awali huruf besr semua
+ex penamaan class
+LuasPersegi, Siswa,
+
+variable
+
+luasPersegi, siswa
+
+contanta
+LUAS_PERSEGI, SISWA
+
+
+
+

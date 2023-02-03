@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d74aefd2-1b43-4c94-9545-760099ca825a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/AssigmentVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/AverageSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/CATATAN.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/Constanta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/CurrentTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/Identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/LuasLingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/LuasPersegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/LuasSegitiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/PersegiPanjang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise01/hitung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/AreaCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/AreaCircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/AreaRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/Exercise2_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/Exercise2_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/Exercise2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/Exercise2_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/Exercise2_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/Exercise2_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/PenjumlahanRibuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/PindahIsiGelas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/PrismaSegitiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/PrismaSegitigaV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise02/RupiahToDollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise03/BertatBadanIdeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise03/KasirSederhana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise03/MonthYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise03/Penilaian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise03/Sales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise04/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise04/KonversiBilangan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise04/KonversiBilanganV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise04/LiveExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise06/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise06/Soal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise06/Soal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise06/Soal3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise06/Soal4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JTmK1Orheqn6eI0YzOHqg9wOjy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andreseptian/IdeaProjects/BahanBelajar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.itc.exercise03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Soal3">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Example" />
+      <module name="BahanBelajar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soal1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Soal1" />
+      <module name="BahanBelajar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Soal2" />
+      <module name="BahanBelajar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soal3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Soal3" />
+      <module name="BahanBelajar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soal4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Soal4" />
+      <module name="BahanBelajar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Soal3" />
+        <item itemvalue="Application.Soal4" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Soal2" />
+        <item itemvalue="Application.Soal1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d74aefd2-1b43-4c94-9545-760099ca825a" name="Changes" comment="" />
+      <created>1672110381097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672110381097</updated>
+      <workItem from="1672110382359" duration="9426000" />
+      <workItem from="1672194832533" duration="69000" />
+      <workItem from="1672387225298" duration="569000" />
+      <workItem from="1673572395286" duration="13897000" />
+      <workItem from="1673918776773" duration="1054000" />
+      <workItem from="1674015182871" duration="822000" />
+      <workItem from="1674115360240" duration="4016000" />
+      <workItem from="1674119945749" duration="226000" />
+      <workItem from="1675395174577" duration="13253000" />
+      <workItem from="1675417282875" duration="9870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itc/exercise03/Penilaian.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/itc/exercise04/Example.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
