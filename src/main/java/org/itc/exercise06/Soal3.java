@@ -210,9 +210,7 @@ public class Soal3 {
         System.out.println("12. Octal to Hexadecimal");
 
         System.out.print("Chose number of menu : ");
-        int menu = input.nextInt();
-
-        return menu;
+        return input.nextInt();
     }
 
 
