@@ -7,26 +7,10 @@ public class Soal3 {
     static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("Converter Number System");
-        System.out.println(" ==== MENU ====");
-        System.out.println("1. Binary to Decimal");
-        System.out.println("2. Binary to Octal");
-        System.out.println("3. Binary to Hexadecimal");
-        System.out.println("4. Decimal to Binary ");
-        System.out.println("5. Decimal to Octal ");
-        System.out.println("6. Decimal to Hexadecimal");
-        System.out.println("7. Hexadecimal to Binary");
-        System.out.println("8. Hexadecimal to Octal");
-        System.out.println("9. Hexadecimal to Decimal");
-        System.out.println("10. Octal to Binary ");
-        System.out.println("11. Octal to Decimal ");
-        System.out.println("12. Octal to Hexadecimal");
-
-        System.out.print("Chose number of menu : ");
-        int menu = input.nextInt();
-
         String in = null, out = null, finalResult = null, number = null;
 
+        // Pilih Menu
+        int menu = pilihMenu();
 
         switch (menu) {
             case 1 -> {
@@ -198,6 +182,7 @@ public class Soal3 {
             }
         }
 
+
         assert finalResult != null;
         if (finalResult.equals("Error")) {
             System.out.println("Input yang anda masukan salah");
@@ -206,6 +191,31 @@ public class Soal3 {
 
         }
     }
+
+
+    private static int pilihMenu() {
+        System.out.println("Converter Number System");
+        System.out.println(" ==== MENU ====");
+        System.out.println("1. Binary to Decimal");
+        System.out.println("2. Binary to Octal");
+        System.out.println("3. Binary to Hexadecimal");
+        System.out.println("4. Decimal to Binary ");
+        System.out.println("5. Decimal to Octal ");
+        System.out.println("6. Decimal to Hexadecimal");
+        System.out.println("7. Hexadecimal to Binary");
+        System.out.println("8. Hexadecimal to Octal");
+        System.out.println("9. Hexadecimal to Decimal");
+        System.out.println("10. Octal to Binary ");
+        System.out.println("11. Octal to Decimal ");
+        System.out.println("12. Octal to Hexadecimal");
+
+        System.out.print("Chose number of menu : ");
+        int menu = input.nextInt();
+
+        return menu;
+    }
+
+
 
 
     // Method input
