@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d74aefd2-1b43-4c94-9545-760099ca825a" name="Changes" comment="First Commit">
+    <list default="true" id="d74aefd2-1b43-4c94-9545-760099ca825a" name="Changes" comment="Update Soal 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise07/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise07/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise07/SelectionShort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/itc/exercise06/Soal3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise06/Soal3.java" afterDir="false" />
     </list>
@@ -68,13 +71,13 @@
       <recent name="org.itc.exercise03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Soal3">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Example" />
+  <component name="RunManager" selected="Application.SelectionShort">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise07.BinarySearch" />
       <module name="BahanBelajar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="PATTERN" value="org.itc.exercise07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soal1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Soal1" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise07.LinearSearch" />
       <module name="BahanBelajar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="PATTERN" value="org.itc.exercise07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Soal2" />
+    <configuration name="SelectionShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise07.SelectionShort" />
       <module name="BahanBelajar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="PATTERN" value="org.itc.exercise07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionShort" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.Soal3" />
         <item itemvalue="Application.Soal4" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.Soal2" />
-        <item itemvalue="Application.Soal1" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +164,8 @@
       <workItem from="1674115360240" duration="4016000" />
       <workItem from="1674119945749" duration="226000" />
       <workItem from="1675395174577" duration="13253000" />
-      <workItem from="1675417282875" duration="10796000" />
+      <workItem from="1675417282875" duration="11830000" />
+      <workItem from="1675830026028" duration="4242000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1675431008504</created>
@@ -170,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675431008505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Soal 3">
+      <created>1675431619540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675431619540</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update Soal 3">
+      <created>1675431636839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675431636839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +197,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Update Soal 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Soal 3" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

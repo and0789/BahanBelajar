@@ -3,9 +3,7 @@ package org.itc.exercise06;
 import java.util.Scanner;
 
 public class Soal3 {
-
     static Scanner input = new Scanner(System.in);
-
     public static void main(String[] args) {
         String in = null, out = null, finalResult = null, number = null;
 
@@ -212,9 +210,6 @@ public class Soal3 {
         System.out.print("Chose number of menu : ");
         return input.nextInt();
     }
-
-
-
 
     // Method input
     private static String inputNumber(String in, String out) {
