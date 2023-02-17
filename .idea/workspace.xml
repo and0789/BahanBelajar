@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d74aefd2-1b43-4c94-9545-760099ca825a" name="Changes" comment="Implementasi Array">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise08/AplikasiNilaiVersi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise08/AplikasiRekapNilai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise08/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise08/LiveCoding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/itc/exercise07/SelectionShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/itc/exercise07/SelectionShort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +71,13 @@
       <recent name="org.itc.exercise03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectionShort">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itc.exercise07.BinarySearch" />
+  <component name="RunManager" selected="Application.AplikasiRekapNilai">
+    <configuration name="AplikasiRekapNilai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise08.AplikasiRekapNilai" />
       <module name="BahanBelajar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.itc.exercise07.*" />
+          <option name="PATTERN" value="org.itc.exercise08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itc.exercise07.LinearSearch" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise08.Demo" />
       <module name="BahanBelajar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.itc.exercise07.*" />
+          <option name="PATTERN" value="org.itc.exercise08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,25 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itc.exercise07.SelectionShort" />
+    <configuration name="LiveCoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise08.LiveCoding" />
       <module name="BahanBelajar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.itc.exercise07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Soal3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itc.exercise06.Soal3" />
-      <module name="BahanBelajar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.itc.exercise06.*" />
+          <option name="PATTERN" value="org.itc.exercise08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +124,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.itc.exercise08.AplikasiNilaiVersi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itc.exercise08.AplikasiNilaiVersi2" />
+      <module name="BahanBelajar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itc.exercise08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectionShort" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.Soal3" />
+        <item itemvalue="Application.AplikasiRekapNilai" />
+        <item itemvalue="Application.LiveCoding" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.org.itc.exercise08.AplikasiNilaiVersi2" />
         <item itemvalue="Application.Soal4" />
       </list>
     </recent_temporary>
@@ -162,7 +165,12 @@
       <workItem from="1674119945749" duration="226000" />
       <workItem from="1675395174577" duration="13253000" />
       <workItem from="1675417282875" duration="11830000" />
-      <workItem from="1675830026028" duration="4780000" />
+      <workItem from="1675830026028" duration="5595000" />
+      <workItem from="1676341424256" duration="26003000" />
+      <workItem from="1676536004410" duration="27000" />
+      <workItem from="1676536050593" duration="2172000" />
+      <workItem from="1676540643457" duration="9022000" />
+      <workItem from="1676596692374" duration="2444000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1675431008504</created>
@@ -192,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675841274092</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implementasi Array">
+      <created>1675841546768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675841546768</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implementasi Array">
+      <created>1675841653063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675841653063</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
